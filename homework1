@@ -1,0 +1,6 @@
+a=float(input("첫번쨰 값을 넣으세요"))
+print(a)
+b=float(input("두번째 값을 넣으세요"))
+print(b)
+c=(a*b)
+print(c)
