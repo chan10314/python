@@ -1,0 +1,3 @@
+a=['banana', 'bravo', 'piano', 'golf', 'chart', 'integer', 'good', 'sort', 'hotel']
+short_a=[a for a in a if len(a) ==4]
+print(short_a)
