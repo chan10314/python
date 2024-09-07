@@ -1,0 +1,5 @@
+numbers=[3, 5, 6, 7, 8, 9]
+for i in numbers:
+        if i==7:
+            print(i)
+            print("찾았다!")
